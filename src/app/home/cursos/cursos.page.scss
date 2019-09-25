@@ -1,0 +1,20 @@
+h6{
+    color: black;
+     font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+ }
+ 
+ h1{
+    color: black;
+     font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+ }
+ 
+ ion-header ion-toolbar ion-title {
+     background:#B0C4DE;
+     height: 55px;
+     width: 4000px;
+ 
+   }
+
+ion-content.background{
+    --background: url(../../../assets/gadriente.jpg) 0 0/100% 100% no-repeat;
+}
